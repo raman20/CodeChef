@@ -1,1 +1,1 @@
-This repo contains all the problems from challenges and practice section from www.codechef.com
+This repo contains all the problems of challenges and practice section from www.codechef.com
